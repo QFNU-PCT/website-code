@@ -341,10 +341,22 @@ aside:
       # 按钮链接
       link: https://github.com/QFNU-PCT/
   card_announcement:
-    # 是否显示公告卡片
     enable: true
-    # 公告内容
-    content: This is my Blog
+    content: >-
+      <p style="text-align:center; font-size:0.9em; line-height:1.6;">
+        本网站所有内容除特别说明外，均采用
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+          target="_blank" rel="license noopener noreferrer">
+          <strong>CC BY-NC-SA 4.0 国际许可协议</strong>
+        </a>
+        授权使用。<br>
+        允许在署名的前提下非商业性转载，并需以相同方式共享。
+        <br>
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+          target="_blank" rel="license noopener noreferrer">
+        </a>
+      </p>
+
   card_recent_post:
     # 是否显示最近文章卡片
     enable: true

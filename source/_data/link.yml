@@ -1,139 +1,87 @@
-- class_name: 推荐 - 编程竞赛平台
-  class_desc: 适合练习和参与编程竞赛的平台
-  link_list:
-    - name: LibreOJ
-      link: https://loj.ac/
-      avatar: https://loj.ac/images/logo.png
-      descr: 自由的在线评测系统 ，题目质量高
-    - name: 洛谷
-      link: https://www.luogu.com.cn/
-      avatar: https://www.luogu.com.cn/favicon.ico
-      descr: 计算机科学教育新生态 ，提供在线测题、社区和学习功能
-    - name: UOJ
-      link: https://uoj.ac/
-      avatar: https://uoj.ac/images/logo.png
-      descr: Universal Online Judge ，经典的在线评测系统
-    - name: CometOJ
-      link: https://www.cometoj.com/
-      avatar: '待补充'
-      descr: 高质量ACM/OI 比赛平台
-    - name: Vijos
-      link: https://vijos.org/
-      avatar: '待补充'
-      descr: 老牌在线评测系统 ，以题目量大著称
-    - name: Codeforces
-      link: https://codeforces.com/
-      avatar: '待补充'
-      descr: 国际知名的编程竞赛和社区平台
-    - name: AtCoder
-      link: https://atcoder.jp/
-      avatar: '待补充'
-      descr: 日本的编程竞赛平台 ，每周举办比赛
-    - name: CodeChef
-      link: https://www.codechef.com/
-      avatar: '待补充'
-      descr: 国际编程学习和竞赛平台
-    - name: SPOJ
-      link: https://www.spoj.com/
-      avatar: '待补充'
-      descr: Sphere Online Judge ，拥有大量题目的在线评测系统
-    - name: TopCoder
-      link: https://www.topcoder.com/
-      avatar: '待补充'
-      descr: 国际众包和编程竞赛平台
-    - name: OnlineJudge
-      link: https://onlinejudge.org/
-      avatar: '待补充'
-      descr: 瓦伦西亚大学（UVa ）在线评测系统
-
 - class_name: 推荐 - 学习资源与工具
   class_desc: 编程学习资源和实用工具
   link_list:
-    - name: OIerDb
-      link: https://oier.baoshuo.dev/
-      avatar: '待补充'
-      descr: 中国信息学竞赛选手数据库
-    - name: 清华数据结构 MOOC 上/下
-      link: https://dsa.cs.tsinghua.edu.cn/~deng/ds/mooc/
-      avatar: '待补充'
-      descr: 清华大学邓俊辉教授的数据结构在线课程
-    - name: 51Nod
-      link: https://www.51nod.com/
-      avatar: '待补充'
-      descr: 算法编程学习中文社区
-    - name: RQNOJ
-      link: https://www.rqnoj.cn/
-      avatar: '待补充'
-      descr: RenqingNet Online Judge ，基于Web形式的信息学在线测评系统
-    - name: ZOJ
-      link: https://acm.zju.edu.cn/
-      avatar: '待补充'
-      descr: 浙江大学在线评测系统
-    - name: NOJ
-      link: https://noj.njupt.edu.cn/
-      avatar: '待补充'
-      descr: 南京邮电大学在线评测系统
-    - name: UVa
-      link: https://onlinejudge.org/
-      avatar: '待补充'
-      descr: 瓦伦西亚大学在线评测系统（与OnlineJudge相同 ）
-    - name: USACO
-      link: https://usaco.org/
-      avatar: '待补充'
-      descr: 美国信息学奥林匹克竞赛官网
-    - name: POJ
-      link: http://poj.org/
-      avatar: '待补充'
-      descr: 北京大学在线评测系统
-
-- class_name: 友情链接
-  class_desc: 值得关注的竞赛和学习网站
-  link_list:
-    - name: OI Wiki
-      link: https://oi-wiki.org/
-      avatar: '待补充'
-      descr: 计算机科学竞赛知识整合站点
-    - name: Universal Online Judge
-      link: https://uoj.ac/
-      avatar: https://uoj.ac/images/logo.png
-      descr: UOJ（与“推荐 - 编程竞赛平台”中的UOJ相同 ）
-    - name: Luogu
+    - name: LibreOJ
+      link: https://loj.ac/
+      avatar: /data/logo.jpg
+      descr: 自由的在线评测系统，题目质量高
+    - name: 洛谷
       link: https://www.luogu.com.cn/
       avatar: https://www.luogu.com.cn/favicon.ico
-      descr: 洛谷（与“推荐 - 编程竞赛平台”中的洛谷相同 ）
-    - name: HydroOJ
-      link: https://hydro.ac/
-      avatar: '待补充'
-      descr: 新一代高效强大的信息学在线测评系统
-    - name: Vijos
-      link: https://vijos.org/
-      avatar: '待补充'
-      descr: 编程竞赛平台（与“推荐 - 编程竞赛平台”中的Vijos相同 ）
+      descr: 计算机科学教育新生态，提供在线测题、社区和学习功能
+    - name: UOJ
+      link: https://uoj.ac/
+      avatar: /data/logo.jpg
+      descr: Universal Online Judge，经典的在线评测系统
+    - name: Codeforces
+      link: https://codeforces.com/
+      avatar: https://codeforces.org/s/0/apple-icon-180x180.png
+      descr: 国际知名的编程竞赛与社区平台，支持在线比赛与题库
+    - name: AtCoder
+      link: https://atcoder.jp/
+      avatar: https://img.atcoder.jp/assets/atcoder.png
+      descr: 日本知名编程竞赛平台，每周举办高质量比赛
+    - name: 牛客竞赛
+      link: https://ac.nowcoder.com/acm/contest/vip-index
+      avatar: /data/logo.jpg
+      descr: 专业的编程算法训练平台，涵盖ACM/ICPC/CCPC等多种竞赛
     - name: OIerDb
       link: https://oier.baoshuo.dev/
-      avatar: '待补充'
-      descr: OIer数据库/工具（与“推荐 - 学习资源与工具”中的OIerDb相同 ）
+      avatar: /data/logo.jpg
+      descr: 中国信息学竞赛选手数据库与资料索引
+    - name: 清华数据结构 MOOC 上/下
+      link: https://dsa.cs.tsinghua.edu.cn/~deng/ds/mooc/
+      avatar: https://www.tsinghua.edu.cn/favicon.ico
+      descr: 清华大学邓俊辉教授主讲的数据结构在线课程
+    - name: ZOJ
+      link: https://acm.zju.edu.cn/
+      avatar: /data/logo.jpg
+      descr: 浙江大学在线评测系统，历史悠久的OJ平台
+    - name: NOJ
+      link: https://noj.njupt.edu.cn/
+      avatar: https://noj.njupt.edu.cn/static/img/noj.png
+      descr: 南京邮电大学在线评测系统，提供高质量题库
+    - name: POJ
+      link: http://poj.org/
+      avatar: http://poj.org/favicon.ico
+      descr: 北京大学在线评测系统，经典OJ平台
+    - name: XCPC Board
+      link: https://board.xcpcio.com/
+      avatar: /data/logo.jpg
+      descr: ICPC/CCPC系列竞赛榜单可视化引擎与信息聚合站
+    - name: OI Wiki
+      link: https://oi-wiki.org/
+      avatar: /data/logo.jpg
+      descr: 计算机科学与竞赛知识整合站点，社区共建维基
+    - name: HydroOJ
+      link: https://hydro.ac/
+      avatar: https://hydro.ac/favicon.ico
+      descr: 新一代高效、可扩展的信息学在线测评系统
 
 - class_name: 编程竞赛
   class_desc: 重要的编程和机器人竞赛
   link_list:
     - name: ACM-ICPC国际大学生程序设计竞赛
       link: https://icpc.global/
-      avatar: '待补充'
-      descr: 国际大学生程序设计竞赛
+      avatar: /data/logo.jpg
+      descr: 全球最具影响力的大学生程序设计竞赛，培养算法与团队合作能力
+    - name: 中国大学生程序设计竞赛（CCPC）
+      link: https://ccpc.io/
+      avatar: /data/logo.jpg
+      descr: 中国高校最高水平的编程竞赛之一，由CCPC组委会主办
     - name: 中国高校计算机大赛－团体程序设计天梯赛
       link: https://gplt.patest.cn/
-      avatar: '待补充'
-      descr: 团体程序设计竞赛
+      avatar: /data/logo.jpg
+      descr: 面向全国高校学生的程序设计竞赛，强调团队协作与编程能力
     - name: 蓝桥杯全国软件和信息技术人才大赛
       link: https://dasai.lanqiao.cn/
-      avatar: '待补充'
-      descr: 软件和信息技术人才大赛
-    - name: 睿抗机器人开发者大赛(RAICOM )
+      avatar: /data/logo.jpg
+      descr: 国内广泛参与的计算机竞赛，涵盖算法、软件开发、AI等领域
+    - name: 睿抗机器人开发者大赛 (RAICOM)
       link: https://www.raicom.com.cn/
-      avatar: '待补充'
-      descr: 机器人开发者大赛
+      avatar: https://www.raicom.com.cn/favicon.icod
+      descr: 面向开发者的智能机器人竞赛，融合AI与工程创新
     - name: 百度之星·程序设计大赛
       link: https://astar.baidu.com/
-      avatar: '待补充'
-      descr: 程序设计大赛
+      avatar: /data/logo.jpg
+      descr: 百度主办的顶级算法竞赛，吸引海内外程序员同台竞技
