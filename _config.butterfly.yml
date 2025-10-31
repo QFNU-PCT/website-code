@@ -255,7 +255,7 @@ post_edit:
   enable: true
   # url: https://github.com/用户名/仓库名/edit/分支名/子目录名/
   # 例如: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url: https://github.com/QFNU-PCT/website-code/
+  url: https://github.com/QFNU-PCT/website-code/tree/main/source/
 
 # 相关文章
 related_post:
